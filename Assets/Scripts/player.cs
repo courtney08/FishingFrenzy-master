@@ -154,7 +154,7 @@ public void fishGameWon()
     }
 
 
-    if (Score >= 100 && timerRunning){
+    if (Score >= 300 && timerRunning){
         Debug.Log("You won the game!");
         timerRunning = false;
         SceneManager.LoadScene(3); // Or go to a win screen
