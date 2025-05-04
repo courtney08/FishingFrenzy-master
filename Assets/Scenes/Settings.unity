@@ -1577,11 +1577,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 391375923}
+  - {fileID: 1578209763}
   - {fileID: 1800882453}
   - {fileID: 2099994480}
   - {fileID: 1073628376}
   - {fileID: 658258328}
-  - {fileID: 1578209763}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1849,7 +1849,7 @@ GameObject:
   - component: {fileID: 1578209765}
   - component: {fileID: 1578209764}
   m_Layer: 5
-  m_Name: backround
+  m_Name: background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
